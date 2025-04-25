@@ -1,1 +1,1 @@
-SS
+Mini Framework PHP
